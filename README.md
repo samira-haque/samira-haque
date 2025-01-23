@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **C, C++**
 
-- 📫 How to reach me **sh6007530@gmail.com**
-
 - ⚡ Fun fact **I love programming only when it works**
 
 <h3 align="left">Connect with me:</h3>
