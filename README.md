@@ -45,7 +45,12 @@
 <p>
   <a href="sh6007530@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/samirahaque1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/samirahaque11" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" /></a>
+  <a href="https://www.facebook.com/samirahaque11" target="_blank">
+ <a href="https://www.facebook.com/samirahaque11" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+
+
   <!-- Add more social links if needed -->
 </p>
 
