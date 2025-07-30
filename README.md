@@ -33,11 +33,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samira_haque&show_icons=true&theme=radical" alt="Samira's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samira-haque&show_icons=true&theme=radical" alt="Samira's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samira_haque&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samira-haque&theme=radical" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samira_haque&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samira-haque&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
