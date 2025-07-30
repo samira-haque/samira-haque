@@ -35,8 +35,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samira-haque&show_icons=true&theme=radical" alt="Samira's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samira-haque&theme=radical" alt="GitHub Streak" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samira-haque&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -47,6 +45,7 @@
 <p>
   <a href="sh6007530@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/samirahaque1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/samirahaque11" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" /></a>
   <!-- Add more social links if needed -->
 </p>
 
