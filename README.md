@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samira</h1>
-<h3 align="center">A passionate CSE student and emerging full-stack developer</h3>
+<h3 align="center">A passionate CSE student</h3>
 
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" />
 
