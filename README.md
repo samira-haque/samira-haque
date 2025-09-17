@@ -1,9 +1,3 @@
-<div align="center">
-  
-![Profile views](https://komarev.com/ghpvc/?username=samira-haque&style=flat-square)
-
-</div>
-
 <h1 align="center">Hi 👋, I'm Samira</h1>
 <h3 align="center">A passionate CSE student</h3>
 
@@ -61,6 +55,13 @@
 </p>
 
 ---
+
+<div align="center">
+  
+![Profile views](https://komarev.com/ghpvc/?username=samira-haque&style=flat-square)
+
+</div>
+
 
 > “The best way to get started is to quit talking and begin doing.” – Walt Disney
 
