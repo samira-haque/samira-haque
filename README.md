@@ -12,10 +12,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samira-haque&theme=dracula&margin-w=10&margin-h=10" />
-</div>
-
 
 ### 🚀 Languages and Tools:
 
