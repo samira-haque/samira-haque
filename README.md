@@ -45,6 +45,14 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samira-haque&theme=react-dark" />
+</div>
+
+![Followers](https://img.shields.io/github/followers/samira-haque?style=social)
+![Stars](https://img.shields.io/github/stars/samira-haque?style=social)
+
+
 ### 🔗 Connect with me
 
 <p>
