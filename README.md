@@ -75,5 +75,5 @@
 
 >Copy-and-Paste was programmed by programmers for programmers.
 
-Thanks for stopping by! 😊
+bye bye! 😊
 
