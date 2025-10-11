@@ -73,7 +73,7 @@
 </div>
 
 
-> “The best way to get started is to quit talking and begin doing.” – Walt Disney
+>Copy-and-Paste was programmed by programmers for programmers.
 
 Thanks for stopping by! 😊
 
