@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samira</h1>
 <h3 align="center">A passionate CSE student</h3>
+<h5 align="center">MayBe</h5>
 
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" />
 
@@ -60,8 +61,6 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </a>
 
-
-  <!-- Add more social links if needed -->
 </p>
 
 ---
