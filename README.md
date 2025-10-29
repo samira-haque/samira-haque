@@ -4,9 +4,9 @@
 
 <img align="right" 
      alt="Coding" 
-     width="350" 
+     width="300" 
      src="https://swarooppatilx.github.io/images/undraw/anime.gif"
-     style="border-radius: 50%; object-fit: cover; height: 350px; width: 350px;" />
+     style="border-radius: 50%; object-fit: cover; height: 300px; width: 300px;" />
 
 ---
 
