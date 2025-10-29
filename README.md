@@ -2,7 +2,11 @@
 <h3 align="center">A passionate CSE student</h3>
 <h5 align="center">My projects are 90% console.log() and 10% panic.🥹</h5>
 
-<img align="right" alt="Coding" width="350" src="https://swarooppatilx.github.io/images/undraw/anime.gif" />
+<img align="right" 
+     alt="Coding" 
+     width="350" 
+     src="https://swarooppatilx.github.io/images/undraw/anime.gif"
+     style="border-radius: 50%; object-fit: cover; height: 350px; width: 350px;" />
 
 ---
 
