@@ -2,7 +2,8 @@
 <h3 align="center">A passionate CSE student</h3>
 <h5 align="center">My projects are 90% console.log() and 10% panic.🥹</h5>
 
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" />
+<img align="right" alt="Coding" width="350" src="![Uploading image.png…]()
+" />
 
 ---
 
