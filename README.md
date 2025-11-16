@@ -76,7 +76,7 @@
 </div>
 
 
->Copy-and-Paste was programmed by programmers for programmers.
+>Stay Away.
 
 bye bye! 😊
 
