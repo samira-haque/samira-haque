@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samira</h1>
+<h2><img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" /></h2>
 <h3 align="center">A passionate CSE student</h3>
 <h5 align="center">My projects are 90% console.log() and 10% panic.🥹</h5>
 
