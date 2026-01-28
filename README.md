@@ -1,58 +1,76 @@
-<h2 align="left">Hi 👋! My name is Samira Haque and I'm a Frontend Developer, from Bangladesh 🇧🇩</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samirahaque&show_icons=true&theme=dracula" height="150" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samirahaque&layout=compact&theme=dracula" height="150" alt="top languages" />
-</div>
-
-###
+<h1 align="center">Hi 👋, I'm Samira</h1>
+<h3 align="center">A passionate CSE student</h3>
+<h5 align="center">My projects are 90% console.log() and 10% panic.🥹</h5>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+---
 
-###
+🌟 I’m a **Computer Science and Engineering** student, passionate about programming and building impactful software.  
+💡 Skilled in: **C, C++, Java, Python, Data Structures, Algorithms,MySql,HTML,CSS,JS**  
+📚 Currently diving into the world of **React.js** and web development.  
+🎯 I love learning new tech, solving problems, and contributing to real-world projects.
 
-### 🛠️ Languages & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+---
+
+
+### 🚀 Languages and Tools:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samira-haque&show_icons=true&theme=radical" alt="Samira's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samira-haque&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samira-haque&theme=react-dark" />
 </div>
 
-###
+![Followers](https://img.shields.io/github/followers/samira-haque?style=social)
+![Stars](https://img.shields.io/github/stars/samira-haque?style=social)
 
-### 📚 Core Concepts
-- Data Structures & Algorithms  
-- Problem Solving  
-- Version Control (Git)  
-
-###
 
 ### 🔗 Connect with me
-<div align="left">
-  <a href="https://www.linkedin.com/in/samirahaque1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  <a href="mailto:sh6007530@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
+
+<p>
+  <a href="sh6007530@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samirahaque1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/samirahaque11" target="_blank">
+ <a href="https://www.facebook.com/samirahaque11" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+  
+![Profile views](https://komarev.com/ghpvc/?username=samira-haque&style=flat-square)
+
 </div>
 
-###
 
-<br clear="both">
+>Stay Away.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+bye bye! 😊
