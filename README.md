@@ -70,6 +70,5 @@
 </div>
 
 
->Stay Away.
 
 bye bye! 😊
