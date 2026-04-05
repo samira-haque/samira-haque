@@ -29,17 +29,6 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samira-haque&show_icons=true&theme=radical" alt="Samira's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samira-haque&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samira-haque&theme=react-dark" />
