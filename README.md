@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Samira</h1>
 <h3 align="center">A passionate CSE student</h3>
-<h5 align="center">okieeeeo</h5>
+<h5 align="center"></h5>
 
 ---
 
