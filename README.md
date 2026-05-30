@@ -6,7 +6,8 @@
 
 🌟 I’m a **Computer Science and Engineering** student, passionate about programming and building impactful software.  
 💡 Skilled in: **C, C++, Java, Python, Data Structures, Algorithms,MySql,Operating Systems,HTML,CSS,JS**  
-📚 Currently diving into the world of **ML**.
+📚 Currently diving into the world of **ML**
+
 🎯 I love learning new tech, solving problems, and contributing to real-world projects.
 
 ---
