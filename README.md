@@ -10,7 +10,6 @@
 
 Passionate about crafting elegant code and solving complex problems. I thrive at the intersection of creativity and technology, always eager to learn and collaborate.
 
-- 🏢 Working at **** in ****
 - 🌱 Currently learning **Diving deeper into machine learning and data science to unlock new possibilities in tech.**
 - 💬 Ask me about **JavaScript frameworks, cloud architectures, and agile methodologies.**
 - ⚡ A Computer Science student passionate about AI, OpenGL, fitness, and creating viral content—always turning ideas into reality
@@ -21,11 +20,6 @@ Passionate about crafting elegant code and solving complex problems. I thrive at
 
 ![Stats](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=GitHub%20Stats&fontSize=22&fontColor=fff)
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/samira-haque&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
 
 ![Connect](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Connect&fontSize=22&fontColor=fff)
 
