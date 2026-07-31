@@ -11,7 +11,7 @@
 Passionate about crafting elegant code and solving complex problems. I thrive at the intersection of creativity and technology, always eager to learn and collaborate.
 
 - 🌱 Currently learning **Diving deeper into machine learning and data science to unlock new possibilities in tech.**
-- 💬 Ask me about **JavaScript frameworks, cloud architectures, and agile methodologies.**
+- 💬 Ask me about **building AI apps, creating graphics with OpenGL, and turning ideas into code**
 - ⚡ A Computer Science student passionate about AI, OpenGL, fitness, and creating viral content—always turning ideas into reality
 
 ![Skills](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
