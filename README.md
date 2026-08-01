@@ -18,9 +18,6 @@ Passionate about crafting elegant code and solving complex problems. I thrive at
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white) ![Data Structure](https://img.shields.io/badge/Data%20Structure-333?style=for-the-badge&logo=datastructure&logoColor=white) ![Algorithm](https://img.shields.io/badge/Algorithm-333?style=for-the-badge&logo=algorithm&logoColor=white) ![C](https://img.shields.io/badge/C-333?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-333?style=for-the-badge&logo=c++&logoColor=white) ![Operating System](https://img.shields.io/badge/Operating%20System-333?style=for-the-badge&logo=operatingsystem&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-333?style=for-the-badge&logo=computergraphics&logoColor=white)
 
-![Stats](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=GitHub%20Stats&fontSize=22&fontColor=fff)
-
-
 ![Connect](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Connect&fontSize=22&fontColor=fff)
 
 <div align="center">
